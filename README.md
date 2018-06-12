@@ -17,6 +17,7 @@ sufficiente lanciare il file run.sh, il quale aprirà 3 terminali:
 * roscore
 * visualizzatore
 * rosbag 
+
 Per avviare il programma premere la barra spaziatrice mentre si ha il focus
 sul terminale che esegue la rosbag.
 Una volta terminata la rosbag sarà necessario interrempere il terminale 
