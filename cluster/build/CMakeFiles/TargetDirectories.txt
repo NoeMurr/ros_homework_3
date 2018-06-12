@@ -1,0 +1,3 @@
+/home/ros/catkin_ws/src/ros_homework_3/cluster/build/CMakeFiles/rebuild_cache.dir
+/home/ros/catkin_ws/src/ros_homework_3/cluster/build/CMakeFiles/edit_cache.dir
+/home/ros/catkin_ws/src/ros_homework_3/cluster/build/CMakeFiles/cluster_extraction.dir
